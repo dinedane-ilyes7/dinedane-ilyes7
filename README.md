@@ -46,11 +46,6 @@ PID and fractional-order PID controller design for DC motor speed regulation, us
 **🚗 [Robotic Car (Object Detection)](https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection)**  
 ESP32 Bluetooth vehicle control and real-time object detection using Python, OpenCV and MobileNet.
 
-<p align="center">
-<a href="https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place"><img src="https://raw.githubusercontent.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place/main/media/previews/robot_iso.webp" alt="Delta robot CAD" width="38%"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection"><img src="https://raw.githubusercontent.com/dinedane-ilyes7/Robotic-Car-Object-Detection/main/assets/robot_car_photo.webp" alt="Robotic car prototype" width="38%"></a>
-</p>
 
 ### 📌 Currently developing
 
