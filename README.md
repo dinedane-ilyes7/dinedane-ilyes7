@@ -32,31 +32,31 @@ I am a **Control Systems Engineer** specializing in **mechatronics and robotics*
 | **Engineering tools** | MATLAB, Simulink, LabVIEW, SolidWorks, CadQuery |
 | **Industrial systems** | PLC programming, instrumentation, HMI/SCADA, industrial automation |
 
-### 🚀 Featured engineering projects
+### 🚀 Featured engineering projects — oldest to newest
 
 | Project | Engineering focus | Repository |
 | :--- | :--- | :--- |
+| **🚗 Robotic Car — Object Detection** | ESP32 Bluetooth drive control and smartphone-camera object recognition with OpenCV and MobileNet. **Source reconstructed from a student project report.** | [**Explore project**](https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection) |
 | **🚁 3-DOF Helicopter — Modeling & LQI Control** | Experimental control platform with BLDC motors, encoder feedback, STM32, identification, PID and LQR/LQI. **Real-hardware demonstration video available.** | [**Explore project**](https://github.com/dinedane-ilyes7/3DOF-Helicopter-Control) |
 | **🦾 Delta Robot — Parametric CAD & MuJoCo Model** | Parallel-robot CAD, forward/inverse kinematics, mechanical design, and simulation-model generation. **Full pick-and-place control stack is a future integration.** | [**Explore project**](https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place) |
 | **🐕 Quadruped Robot — ROS 2 & Embedded Control** | 12-joint robot description, Gazebo/ROS 2 controllers, Teensy/PCA9685 servo mapping, standing calibration, and kinematic checks. **Repository is a documented development snapshot.** | [**Explore project**](https://github.com/dinedane-ilyes7/ROS2-Quadruped-Robot) |
-| **🚗 Robotic Car — Object Detection** | ESP32 Bluetooth drive control and smartphone-camera object recognition with OpenCV and MobileNet. **Source reconstructed from a student project report.** | [**Explore project**](https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection) |
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place">
-<img alt="Parametric CAD render of the Delta robot" src="https://raw.githubusercontent.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place/main/media/previews/robot_iso.webp" width="360"/>
-</a>
-<br/>
-<sub>Delta robot — parametric mechanical design</sub>
-</td>
-<td align="center" width="50%">
 <a href="https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection">
 <img alt="Original four-wheel robotic-car prototype" src="https://raw.githubusercontent.com/dinedane-ilyes7/Robotic-Car-Object-Detection/main/assets/robot_car_photo.webp" width="360"/>
 </a>
 <br/>
-<sub>ESP32 robotic-car prototype</sub>
+<sub>Robotic car — earlier academic prototype</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place">
+<img alt="Parametric CAD render of the Delta robot" src="https://raw.githubusercontent.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place/main/media/previews/robot_iso.webp" width="360"/>
+</a>
+<br/>
+<sub>Delta robot — later mechanical design</sub>
 </td>
 </tr>
 </table>
