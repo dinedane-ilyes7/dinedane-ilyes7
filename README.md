@@ -41,7 +41,7 @@ ROS 2, Gazebo, joint controllers, servo calibration and kinematics. *Work-in-pro
 System identification, PID and LQR/LQI control with STM32 and real experimental hardware. Includes a demonstration video.
 
 **⚙️ [PID–FOPID DC Motor Control](https://github.com/dinedane-ilyes7/FOPID-PLC-DC-Motor-Control)**  
-MATLAB controller optimization and Siemens PLC SCL source. *Attributed archive of other authors' work; not my original implementation.*
+PID and fractional-order PID controller design for DC motor speed regulation, using MATLAB, PSO optimization and Siemens PLC SCL.
 
 **🚗 [Robotic Car (Object Detection)](https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection)**  
 ESP32 Bluetooth vehicle control and smartphone-camera object detection with OpenCV and MobileNet. *Code reconstructed from the academic project report.*
