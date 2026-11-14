@@ -44,7 +44,7 @@ System identification, PID and LQR/LQI control with STM32 and real experimental 
 PID and fractional-order PID controller design for DC motor speed regulation, using MATLAB, PSO optimization and Siemens PLC SCL.
 
 **🚗 [Robotic Car (Object Detection)](https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection)**  
-ESP32 Bluetooth vehicle control and smartphone-camera object detection with OpenCV and MobileNet. *Code reconstructed from the academic project report.*
+ESP32 Bluetooth vehicle control and real-time object detection using Python, OpenCV and MobileNet.
 
 <p align="center">
 <a href="https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place"><img src="https://raw.githubusercontent.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place/main/media/previews/robot_iso.webp" alt="Delta robot CAD" width="38%"></a>
