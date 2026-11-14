@@ -17,7 +17,7 @@ MSc in Control Systems Engineering — **IGEE, University of Boumerdes**
 
 ### 👋 About me
 
-I am a **Control Systems Engineer** specializing in **mechatronics and robotics**, currently studying Mechatronics, Machine Vision & AI at **Université Paris-Saclay**. I enjoy developing intelligent systems by combining **control theory, embedded programming, simulation, and computer vision**.
+I am a **Control Systems Engineer** specializing in **mechatronics and robotics**, currently studying Mechatronics, Machine Vision & AI at **Université Paris-Saclay**. I enjoy developing intelligent systems by combining **control engineering, robotics, and artificial intelligence**.
 
 📍 Paris region, France
 
