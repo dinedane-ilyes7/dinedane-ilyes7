@@ -17,12 +17,9 @@ MSc in Control Systems Engineering — **IGEE, University of Boumerdes**
 
 ### 👋 About me
 
-I am a control systems engineer specializing in **mechatronics and robotics**. My work connects mathematical modeling and control design with **embedded hardware, real-time sensing, simulation, and experimental validation**.
+I am a **Control Systems Engineer** specializing in **mechatronics and robotics**, currently studying Mechatronics, Machine Vision & AI at **Université Paris-Saclay**. I enjoy developing intelligent systems by combining **control theory, embedded programming, simulation, and computer vision**.
 
-I have worked with optimal control on a real 3-DOF helicopter, ROS 2 robot descriptions and joint controllers, parametric design of a Delta robot, and computer vision on an ESP32-based robotic car. My broader engineering interests include **autonomous systems, motion planning, perception, industrial automation, and intelligent control**.
-
-📍 Based in the Paris region, France  
-🎯 **Seeking a 4–6-month engineering/research internship starting February 2027**, preferably in France or Switzerland — robotics, automation, control systems, mechatronics, or embedded systems.
+📍 Paris region, France
 
 ### 🛠️ Engineering toolbox
 
@@ -77,6 +74,6 @@ I have worked with optimal control on a real 3-DOF helicopter, ROS 2 robot descr
 
 ### 🤝 Let's connect
 
-Interested in an **internship, robotics research, mechatronics, or industrial automation collaboration**? You can reach me via [**LinkedIn**](https://www.linkedin.com/in/ilyes-dinedane/) or explore the repositories above.
+For robotics, mechatronics, control systems, or automation collaborations, connect with me via [**LinkedIn**](https://www.linkedin.com/in/ilyes-dinedane/) or explore the repositories above.
 
 <sub>Project READMEs distinguish original experiments, collaborative work, reconstructed source files, and planned features. I aim to keep those boundaries clear.</sub>
