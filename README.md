@@ -3,7 +3,7 @@
 # Ilyes Dinedane
 
 **Mechatronics & Control Systems Engineer**  
-**Robotics · Embedded Systems · Advanced Control · AI**
+**Robotics · Embedded Systems · AI**
 
 M2 Mechatronics, Machine Vision & AI — **Université Paris-Saclay, France**  
 MSc in Control Systems Engineering — **IGEE, University of Boumerdes**
