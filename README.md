@@ -10,6 +10,7 @@ MSc in Control Systems Engineering — **IGEE, University of Boumerdes**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyes-dinedane/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinedane-ilyes7?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-167D72?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dinedane-ilyes7.github.io/)
 
 </div>
 
@@ -20,7 +21,8 @@ MSc in Control Systems Engineering — **IGEE, University of Boumerdes**
 I am a **Control Systems Engineer** specializing in **mechatronics and robotics**, currently studying Mechatronics, Machine Vision & AI at **Université Paris-Saclay**. I enjoy developing intelligent systems by combining **control engineering, robotics, and artificial intelligence**.
 
 📍 Paris region, France  
-🔗 **LinkedIn:** [linkedin.com/in/ilyes-dinedane/](https://www.linkedin.com/in/ilyes-dinedane/)
+🔗 **LinkedIn:** [linkedin.com/in/ilyes-dinedane/](https://www.linkedin.com/in/ilyes-dinedane/)  
+🌐 **Portfolio:** [dinedane-ilyes7.github.io](https://dinedane-ilyes7.github.io/)
 
 ### 🛠️ Skills & tools
 
