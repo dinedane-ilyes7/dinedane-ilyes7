@@ -21,49 +21,37 @@ I am a **Control Systems Engineer** specializing in **mechatronics and robotics*
 
 📍 Paris region, France
 
-### 🛠️ Engineering toolbox
+### 🛠️ Skills & tools
 
-| Area | Technologies and methods |
-| :--- | :--- |
-| **Robotics & simulation** | ROS 2 Jazzy, Gazebo, RViz, MuJoCo, robot kinematics, trajectory planning |
-| **Control engineering** | PID, LQR/LQI, state-space modeling, system identification, controller tuning |
-| **Embedded & electronics** | STM32, ESP32, Teensy, Arduino, C/C++, PWM, encoders, motor drivers, UART, I²C |
-| **Perception & software** | Python, OpenCV, computer vision, NumPy, Git/GitHub |
-| **Engineering tools** | MATLAB, Simulink, LabVIEW, SolidWorks, CadQuery |
-| **Industrial systems** | PLC programming, instrumentation, HMI/SCADA, industrial automation |
+**Control & Robotics:** PID, LQR/LQI, system identification, robot kinematics, ROS 2, Gazebo, RViz, MuJoCo  
+**Programming & Embedded:** Python, C/C++, STM32, ESP32, Teensy, OpenCV  
+**Engineering Software:** MATLAB/Simulink, LabVIEW, SolidWorks, CadQuery  
+**Industrial Automation:** PLC programming, instrumentation, HMI/SCADA
 
-### 🚀 Engineering projects — oldest to newest (5 → 1)
+### 🚀 Projects
 
-| Order | Project | Engineering focus | Repository |
-| :---: | :--- | :--- | :--- |
-| **5** | **🚗 Robotic Car — Object Detection** | ESP32 Bluetooth drive control and smartphone-camera object detection with OpenCV and MobileNet. Source reconstructed from an academic project report. | [View repository](https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection) |
-| **4** | **⚙️ PID vs. FOPID — DC Motor Control** | MATLAB controller optimization and Siemens PLC SCL code. **Attributed archive of other authors' work; not my original implementation.** | [View repository](https://github.com/dinedane-ilyes7/FOPID-PLC-DC-Motor-Control) |
-| **3** | **🚁 3-DOF Helicopter — Modeling & LQI Control** | Experimental helicopter control with STM32, encoders, system identification, PID and LQR/LQI. Real-hardware demonstration video available. | [View repository](https://github.com/dinedane-ilyes7/3DOF-Helicopter-Control) |
-| **2** | **🐕 Quadruped Robot — ROS 2 & Embedded Control** | 12-joint robot description, Gazebo/ROS 2 controllers, Teensy/PCA9685 servo mapping, standing calibration and kinematic checks. Development snapshot. | [View repository](https://github.com/dinedane-ilyes7/ROS2-Quadruped-Robot) |
-| **1** | **🦾 Delta Robot — Parametric CAD & MuJoCo Model** | Parallel-robot CAD, forward/inverse kinematics, mechanical design and simulation-model generation. Full pick-and-place controller integration pending. | [View repository](https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place) |
+<sub>Oldest → newest · 5 → 1</sub>
 
-*Project #4 is an attributed technical archive of other authors' source code, shared here for reference and not presented as my own work.*
+**5. 🚗 [Robotic Car (Object Detection)](https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection)**  
+ESP32 Bluetooth vehicle control and smartphone-camera object detection with OpenCV and MobileNet. *Code reconstructed from the academic project report.*
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection">
-<img alt="Original four-wheel robotic-car prototype" src="https://raw.githubusercontent.com/dinedane-ilyes7/Robotic-Car-Object-Detection/main/assets/robot_car_photo.webp" width="360"/>
-</a>
-<br/>
-<sub>Project 5 — Robotic car</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place">
-<img alt="Parametric CAD render of the Delta robot" src="https://raw.githubusercontent.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place/main/media/previews/robot_iso.webp" width="360"/>
-</a>
-<br/>
-<sub>Project 1 — Delta robot</sub>
-</td>
-</tr>
-</table>
-</div>
+**4. ⚙️ [PID–FOPID DC Motor Control](https://github.com/dinedane-ilyes7/FOPID-PLC-DC-Motor-Control)**  
+MATLAB controller optimization and Siemens PLC SCL source. *Attributed archive of other authors' work; not my original implementation.*
+
+**3. 🚁 [3-DOF Helicopter Control](https://github.com/dinedane-ilyes7/3DOF-Helicopter-Control)**  
+System identification, PID and LQR/LQI control with STM32 and real experimental hardware. Includes a demonstration video.
+
+**2. 🐕 [Quadruped Robot](https://github.com/dinedane-ilyes7/ROS2-Quadruped-Robot)**  
+ROS 2, Gazebo, joint controllers, servo calibration and kinematics. *Work-in-progress development snapshot.*
+
+**1. 🦾 [Delta Robot — Pick and Place](https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place)**  
+Parametric mechanical design, Delta robot kinematics and MuJoCo simulation model. *Full control application integration is ongoing.*
+
+<p align="center">
+<a href="https://github.com/dinedane-ilyes7/Robotic-Car-Object-Detection"><img src="https://raw.githubusercontent.com/dinedane-ilyes7/Robotic-Car-Object-Detection/main/assets/robot_car_photo.webp" alt="Robotic car prototype" width="38%"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place"><img src="https://raw.githubusercontent.com/dinedane-ilyes7/Delta-Robot-Pick-and-Place/main/media/previews/robot_iso.webp" alt="Delta robot CAD" width="38%"></a>
+</p>
 
 ### 📌 Currently developing
 
